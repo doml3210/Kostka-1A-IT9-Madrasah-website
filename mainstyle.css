@@ -1,0 +1,33 @@
+
+body{
+background-repeat:no-repeat; 
+background-position:center;
+background-size: 100%;
+background-attachment: fixed;
+}
+
+#div1 {
+background-color: #132A13;
+width: 1900px;
+height: 650px;
+margin: auto;
+font-family: Impact;
+color: #FFFEF2 ;
+text-align: center;
+font-size: 70px;
+}
+
+
+#div2 {
+background-color:#0C1B0C;
+width:400px;
+height: 2890px;
+float: left;
+color: white;
+font-size: 30px;
+font-family: arial;
+}
+
+a {
+color:#132A13;
+}
